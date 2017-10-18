@@ -9,4 +9,4 @@ Installation
 apm install apex-ui
 ```
 
-![](https://github.com/ericluuci/era-syntax/blob/master/Showcase.png)
+![](https://github.com/ericluuci/era-syntax/blob/master/example.png)
